@@ -38,4 +38,5 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 * Compare both the metrices to conclude with model work better
 * Create a Grad-Cam function to generate the heatmaps
 * Once the Heatmaps are generated test that on the testing images to final output that highlights the region with makes biological senses
-- Reference : All the code for classification will be avaliable in [Eye](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/eye)
+* Reference : All the code for classification will be avaliable in [Eye](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/eye)
+
