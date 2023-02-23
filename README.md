@@ -5,7 +5,7 @@
 2. [Getting Started](#getting-started)
     1. [Dependencies](#dependencies)
     2. [Models Used](#models)
-    3. [Data links] (#data)
+    3. [Data Links](#data)
 3. [Instruction to Run](#instruction)
 
 ## Overview <a name="overview"></a>
