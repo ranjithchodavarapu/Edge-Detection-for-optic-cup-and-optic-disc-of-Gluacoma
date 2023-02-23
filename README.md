@@ -27,6 +27,7 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 
 ### Data links<a name="data"></a>
 - Model Link Drishti_GS: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=sharing
-- Data set link: https://drive.google.com/drive/folders/1S5KglW1s6m9D20WeGdC5hLfkr2_ZSoWq?usp=share_link
+- Data set link for Gluacoma: https://drive.google.com/drive/folders/1S5KglW1s6m9D20WeGdC5hLfkr2_ZSoWq?usp=share_link
+- Data set Link for Fundus Classification: https://www.kaggle.com/linchundan/fundusimage1000
 
 ## Instruction to Run<a name="instruction"></a>
