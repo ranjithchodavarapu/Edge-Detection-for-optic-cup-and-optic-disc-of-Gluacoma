@@ -7,6 +7,8 @@
     2. [Models Used](#models)
     3. [Data Links](#data)
 3. [Instruction to Run](#instruction)
+4. [Sample Screen Shots](#sample)
+
 
 ## Overview <a name="overview"></a>
 Human eye has a lot of diseases, here we will using some classification techniques on fundas images and .we need to distinguish between fundus diseases such as glaucoma, myopia, DR1, and maculopathy and normal images.here we will be using grad Cam as it highlights the region with makes biological senses and then we also use some segmentation techniques in gluacoma images and segment the optic cup and optic disc.we will use canny and dilation to get the edge over the optic cup and optic disc.
@@ -58,4 +60,4 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 * Reference: All the code for gluacoma segmentation using U-Net is avaliable in [gluacoma](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/glucoma)
 * Reference: All the code for gluacoma segmentation using other models is avaliable in [cnn](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/cnn)
 
-
+## Sample Screen Shots] <a name="sample"></a>
