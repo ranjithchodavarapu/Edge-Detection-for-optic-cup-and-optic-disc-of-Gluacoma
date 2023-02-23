@@ -32,3 +32,5 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 
 ## Instruction to Run<a name="instruction"></a>
 ### fundus classification 
+* Download the data set from the link provide in data links and keep those data in the a folder where you will be executing yor project 
+* 
