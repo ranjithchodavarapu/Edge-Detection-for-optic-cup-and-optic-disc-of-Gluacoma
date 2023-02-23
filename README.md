@@ -41,4 +41,21 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 * Reference : All the code for classification will be avaliable in [Eye](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/eye)
 
 ### Edge Detection 
+* Download the model from the link provide in data links and keep those data in the a folder where you will be executing yor project 
+* Import the required libraries for the code 
+* Create the function for obtaining accuracy and loss for the model 
+* Create the helper function to increase the brightness, hue, saturation, value and also code to shuffle instead of random shuffle
+* Now load the data from the folder where you saved it
+* Create a function for the segmentation model 
+* Now prepare the data for our model injection
+* Visualise  all the input data we have prepared 
+* Create train and test set by combining datasets
+* Preprocessing step for disc/ cup Segmentation and Perform CLAHE on each image
+* Visualise  all the CLAHE data image after preprocessing
+* create an helper function for callback and ReduceLROnPlateau
+* Compile the model and then train it
+* once training is done Visualise it on our dataset using canny and dilation for edge detection of cup and disc.
+* Reference: All the code for gluacoma segmentation using U-Net is avaliable in [gluacoma](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/glucoma)
+* Reference: All the code for gluacoma segmentation using other models is avaliable in [cnn](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/cnn)
+
 
