@@ -26,7 +26,6 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 - *** All the code for gluacoma segmentation using other models is avaliable in [cnn](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/cnn)
 
 ### Data links<a name="data"></a>
-- Model Link Drishti_GS: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
-- Data set link: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
-
+- Model Link Drishti_GS: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=sharing
+- Data set link: https://drive.google.com/drive/folders/1S5KglW1s6m9D20WeGdC5hLfkr2_ZSoWq?usp=share_link
 
