@@ -31,3 +31,4 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 - Data set Link for Fundus Classification: https://www.kaggle.com/linchundan/fundusimage1000
 
 ## Instruction to Run<a name="instruction"></a>
+### fundus classification 
