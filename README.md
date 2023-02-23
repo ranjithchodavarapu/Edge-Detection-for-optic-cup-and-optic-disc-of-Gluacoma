@@ -5,6 +5,7 @@
 2. [Getting Started](#getting-started)
     1. [Dependencies](#dependencies)
     2. [Models Used](#models)
+    3. [Data links] (#data)
 3. [Instruction to Run](#instruction)
 
 ## Overview <a name="overview"></a>
@@ -23,8 +24,8 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 - *** All the code for classification will be avaliable in [Eye](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/eye)
 - *** All the code for gluacoma segmentation using U-Net is avaliable in [gluacoma](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/glucoma)
 - *** All the code for gluacoma segmentation using other models is avaliable in [cnn](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/cnn)
-
-
-# links 
+### Data links<a name="data"></a>
 - Model Link Drishti_GS: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
 - Data set link: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
+
+
