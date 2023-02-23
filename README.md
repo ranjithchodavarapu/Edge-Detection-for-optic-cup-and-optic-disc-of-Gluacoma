@@ -1,3 +1,25 @@
+# Identifying the edge of the optic cup and optic disc for Glaucoma using segmentation and fundus image classification via deep learning
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Getting Started](#getting-started)
+    1. [Dependencies](#dependencies)
+    2. [Models Used](#models)
+3. [Instruction to Run](#instruction)
+
+## Overview <a name="overview"></a>
+Human eye has a lot of diseases, here we will using some classification techniques on fundas images and .we need to distinguish between fundus diseases such as glaucoma, myopia, DR1, and maculopathy and normal images.here we will be using grad Cam as it highlights the region with makes biological senses and then we also use some segmentation techniques in gluacoma images and segment the optic cup and optic disc.we will use canny and dilation to get the edge over the optic cup and optic disc.
+
+
+## Getting Started <a name="getting-started"></a>
+
+### Dependencies <a name="dependencies"></a>
+* Python 3.*
+* Libraries: NumPy, Sklearn, Seaborn, Matplotlib, cv2, Keras, Tensorflow, tdpm, h5py,Skimage, Scipy, 
+* Juypter
+
+
+
 # links 
 - Model Link Drishti_GS: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
 - Data set link: https://drive.google.com/drive/folders/14_FTu5JDokkWa4VKmOsm4GwjOJrWau33?usp=share_link
