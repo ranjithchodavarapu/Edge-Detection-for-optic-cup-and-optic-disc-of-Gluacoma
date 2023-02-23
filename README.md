@@ -33,4 +33,9 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 ## Instruction to Run<a name="instruction"></a>
 ### fundus classification 
 * Download the data set from the link provide in data links and keep those data in the a folder where you will be executing yor project 
-* 
+* Import the required libraries for the code and preprocess the data 
+* Now train the model without fine-tuning and obtain the metrices 
+* Now train the model with fine-tuning and obtain the metrices 
+* Compare both the metrices to conclude with model work better
+* Create a Grad-Cam function to generate the heatmaps
+* Once the Heatmaps are generated test that on the testing images to final output that highlights the region with makes biological senses
