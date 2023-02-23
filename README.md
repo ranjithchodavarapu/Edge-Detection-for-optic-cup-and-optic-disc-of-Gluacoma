@@ -60,4 +60,4 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 * Reference: All the code for gluacoma segmentation using U-Net is avaliable in [gluacoma](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/glucoma)
 * Reference: All the code for gluacoma segmentation using other models is avaliable in [cnn](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/tree/main/cnn)
 
-## Sample Screen Shots] <a name="sample"></a>
+## Sample Screen Shots <a name="sample"></a>
