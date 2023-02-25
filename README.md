@@ -61,3 +61,6 @@ we have few classification techniques like MobileNetV2,ResNet152,101 and 50V2, V
 
 ## Sample Output <a name="sample"></a>
 ![sample](https://github.com/ranjithchodavarapu/Edge-Detection-for-optic-cup-and-optic-disc-of-Gluacoma/blob/main/Images/output_cup.png)
+
+
+** accuracy may change for the files in the cnn folder 
